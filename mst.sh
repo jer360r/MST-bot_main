@@ -370,7 +370,7 @@ MST-bot
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
 #of this license document, but changing it is not allowed.       
-cd MST-Renamer-Bot  #Copyright (C) 2007 Free Software Foundation, Inc. 
+cd MST-bot  #Copyright (C) 2007 Free Software Foundation, Inc. 
 #Coyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
 #of this license document, but changing it is not allowed.
